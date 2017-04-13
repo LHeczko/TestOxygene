@@ -16,7 +16,7 @@ namespace WPFApplication2
             }
             catch
             {
-                var dial = new TestDialog();
+                var dial = new ClassLibrary1.TestDialogCL();
                 await MaterialDesignThemes.Wpf.DialogHost.Show(dial, "RootDialog");
 
             }
