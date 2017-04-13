@@ -86,9 +86,6 @@
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml" />
     <Compile Include="App.xaml.pas" />
-    <Page Include="TestDialog.xaml">
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -103,10 +100,6 @@
     </Compile>
     <Compile Include="Polecenie2.pas">
       <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="TestDialog.xaml.pas">
-      <SubType>Code</SubType>
-      <DependentUpon>TestDialog.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.pas">
       <DependentUpon>MainWindow.xaml</DependentUpon>
