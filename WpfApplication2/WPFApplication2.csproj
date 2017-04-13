@@ -63,7 +63,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="ITest.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Model.cs" />
     <Compile Include="Polecenie.cs" />
     <Compile Include="Polecenie2.cs" />

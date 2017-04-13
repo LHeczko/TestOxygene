@@ -17,8 +17,8 @@ namespace WPFApplication2
 
         public async void Execute(object parameter)
         {
-            await ((ITest)System.Windows.Application.Current).Komunikat();
-            await ((ITest)System.Windows.Application.Current).Komunikat();
+            await ClassLibrary1.Class1.Test();
+            await ClassLibrary1.Class1.Test();
         }
     }
 }

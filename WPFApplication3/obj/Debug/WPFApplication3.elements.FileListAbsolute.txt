@@ -24,3 +24,29 @@ C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\WPFApplication3\obj\Debug
 C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\WPFApplication3\obj\Debug\WPFApplication3.exe
 C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\WPFApplication3\obj\Debug\WPFApplication3.pdb
 C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\WPFApplication3\obj\Debug\WPFApplication3.elementsResolveAssemblyReference.cache
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\WPFApplication3.exe.config
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\WPFApplication3.exe
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\WPFApplication3.exe.mdb
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\WPFApplication3.pdb
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\ClassLibrary1.dll
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\MaterialDesignColors.dll
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\MaterialDesignThemes.Wpf.dll
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\ClassLibrary1.pdb
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+d:\TestOxygene\TestOxygene\WPFApplication3\bin\Debug\MaterialDesignThemes.Wpf.xml
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\WPFApplication3.elementsResolveAssemblyReference.cache
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\TestDialog.g.pas
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\MainWindow.g.pas
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\App.g.pas
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\WPFApplication3_Content.g.pas
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\GeneratedInternalTypeHelper.g.pas
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\WPFApplication3_MarkupCompile.cache
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\WPFApplication3_MarkupCompile.lref
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\App.baml
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\TestDialog.baml
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\MainWindow.baml
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\WPFApplication3.g.resources
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\WPFApplication3.Properties.Resources.resources
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\WPFApplication3.elements.GenerateResource.Cache
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\WPFApplication3.exe
+d:\TestOxygene\TestOxygene\WPFApplication3\obj\Debug\WPFApplication3.pdb

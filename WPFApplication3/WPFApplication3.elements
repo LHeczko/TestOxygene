@@ -95,9 +95,6 @@
     <Compile Include="Class1.pas">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ITest.pas">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="Model.pas">
       <SubType>Code</SubType>
     </Compile>
