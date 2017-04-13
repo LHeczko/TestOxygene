@@ -92,6 +92,9 @@
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Compile Include="Class1.pas">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ITest.pas">
       <SubType>Code</SubType>
     </Compile>
@@ -99,6 +102,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Polecenie.pas">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Polecenie2.pas">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="TestDialog.xaml.pas">
@@ -129,6 +135,14 @@
     <Content Include="packages.config">
       <SubType>Content</SubType>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Name>ClassLibrary1</Name>
+      <Project>{0639d52d-67f9-4bce-9bef-c43f06e7a4a4}</Project>
+      <Private>True</Private>
+      <HintPath>..\ClassLibrary1\bin\Debug\ClassLibrary1.dll</HintPath>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\RemObjects Software\Elements\RemObjects.Elements.Echoes.targets" />
 </Project>

@@ -21,7 +21,7 @@ begin
   try
     raise new Exception('Parameter cannot be null');
   except
-    var dial := new WPFApplication3.TestDialog();
+    var dial := new ClassLibrary1.TestDialogCL();
     await MaterialDesignThemes.Wpf.DialogHost.Show(dial, 'RootDialog');
   end;
 end;

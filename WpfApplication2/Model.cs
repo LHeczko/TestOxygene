@@ -18,10 +18,12 @@ namespace WPFApplication2
         }
 
         public Polecenie TestClick { get; set; }
+        public Polecenie2 TestClick2 { get; set; }
 
         public Model()
         {
             TestClick = new Polecenie();
+            TestClick2 = new Polecenie2();
         }
     }
 }

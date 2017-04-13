@@ -8,6 +8,6 @@
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
     <Grid>
-      <Button Grid.Row="4" Grid.Column="2" Content="OK" Style="{StaticResource MaterialDesignRaisedButton}" IsDefault="True" Command="materialDesign:DialogHost.CloseDialogCommand" Margin="2,2,2,2"/>            
+      <Button Grid.Row="4" Grid.Column="2" Content="OK" Style="{StaticResource MaterialDesignRaisedButton}" IsDefault="True" Command="materialDesign:DialogHost.CloseDialogCommand" Margin="2,2,2,2"/>
     </Grid>
 </UserControl>

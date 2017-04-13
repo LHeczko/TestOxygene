@@ -1,0 +1,14 @@
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\TestDialogCL.g.cs
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1_MarkupCompile.cache
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1_MarkupCompile.lref
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\bin\Debug\MaterialDesignColors.dll
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\TestDialogCL.baml
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.g.resources
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\LHeczko\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache

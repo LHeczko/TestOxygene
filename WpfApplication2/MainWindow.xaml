@@ -12,8 +12,9 @@
         <local:Model/>
     </Window.DataContext>
     <materialDesign:DialogHost Identifier="RootDialog" DialogMargin="0,0,0,0">
-        <Grid>
-            <Button Content="Test" Command="{Binding TestClick}" Name="testButton"/>
-        </Grid>
+        <StackPanel>
+          <Button Content="Test" Command="{Binding TestClick}" Name="testButton"/>
+          <Button Content="Test2" Command="{Binding TestClick2}" Name="testButton2"/>
+        </StackPanel>
     </materialDesign:DialogHost>
 </Window>

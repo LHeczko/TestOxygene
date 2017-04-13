@@ -60,12 +60,17 @@ type
                 self.testButton := (target as System.Windows.Controls.Button);
                 exit;
             end;
+            if (connectionId = 2) then begin
+                self.testButton2 := (target as System.Windows.Controls.Button);
+                exit;
+            end;
             self._contentLoaded := true;
         end;
         
     assembly 
     
         var [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('Microsoft.Performance', 'CA1823:AvoidUnusedPrivateFields')] testButton: System.Windows.Controls.Button;
+        var [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('Microsoft.Performance', 'CA1823:AvoidUnusedPrivateFields')] testButton2: System.Windows.Controls.Button;
         
     public 
     

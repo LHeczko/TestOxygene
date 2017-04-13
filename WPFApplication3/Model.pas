@@ -12,6 +12,7 @@ type
     method OnNotifyPropertyChanged(p: String);
 
 		property TestClick: Polecenie read write;
+		property TestClick2: Polecenie2 read write;
 		constructor();
   end;
 
@@ -30,6 +31,7 @@ end;
 constructor Model;
 begin
   TestClick := new Polecenie();
+  TestClick2 := new Polecenie2();
 end;
 
 end.

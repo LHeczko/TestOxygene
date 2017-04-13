@@ -16,8 +16,8 @@ implementation
 
 method Polecenie.Execute(parameter: Object);
 begin
-  await ITest(System.Windows.Application.Current).Komunikat();
-  await ITest(System.Windows.Application.Current).Komunikat();
+	await Class1.Test();
+	await Class1.Test();
 end;
 
 method Polecenie.CanExecute(parameter: Object): Boolean;

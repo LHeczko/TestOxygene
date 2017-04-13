@@ -66,6 +66,7 @@
     <Compile Include="ITest.cs" />
     <Compile Include="Model.cs" />
     <Compile Include="Polecenie.cs" />
+    <Compile Include="Polecenie2.cs" />
     <Compile Include="TestDialog.xaml.cs">
       <DependentUpon>TestDialog.xaml</DependentUpon>
     </Compile>
@@ -113,6 +114,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{0639d52d-67f9-4bce-9bef-c43f06e7a4a4}</Project>
+      <Name>ClassLibrary1</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
